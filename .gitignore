@@ -1,0 +1,11 @@
+## PHP Website using Yii Framework
+protected/data/*.db
+protected/tests/report/*
+
+## PhpStorm
+.idea
+
+## Netbeans PHP
+build
+nbproject
+/photo/

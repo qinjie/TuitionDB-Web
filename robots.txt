@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /images
+Allow: /protected/views
+Disallow: /
